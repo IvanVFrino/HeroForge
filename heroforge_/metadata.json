@@ -1,0 +1,6 @@
+{
+  "name": "HeroForge: ",
+  "description": "A comprehensive web application to create, manage, and customize Dungeons & Dragons 5th Edition characters and game content. Features include a step-by-step character creator (2024 PHB rules), custom content creation for species, classes, backgrounds, items, NPCs/monsters, a Bestiary to view them, and data persistence via import/export. Future AI assistance for content generation planned.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
